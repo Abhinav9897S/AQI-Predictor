@@ -19,8 +19,6 @@ Machine learning-based system for predicting AQI values.
 ## Dataset
 Noida AQI dataset covering 3 years.
 
-## Results
-(Add screenshots here)
 
 ## Author
 Abhinav Singh

@@ -1,2 +1,26 @@
-# AQI-Predictor
-📊 AQI Predictor leverages machine learning algorithms, data preprocessing, and visualization techniques to predict Air Quality Index values from environmental datasets, providing actionable insights into air pollution patterns and future air quality conditions.
+# AQI Predictor
+
+## Overview
+Machine learning-based system for predicting AQI values.
+
+## Features
+- Data preprocessing
+- AQI prediction
+- Data visualization
+- Model evaluation
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## Dataset
+Noida AQI dataset covering 3 years.
+
+## Results
+(Add screenshots here)
+
+## Author
+Abhinav Singh
